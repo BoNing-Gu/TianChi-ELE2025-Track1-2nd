@@ -1,0 +1,220 @@
+2025-06-16 00:10:46,103 - INFO - audioURL: https://ele-tianchi-track1.oss-cn-hangzhou.aliyuncs.com/%E9%B8%A1%E8%9B%8B%E7%82%92%E7%95%AA%E8%8C%84.mp3
+2025-06-16 00:10:46,476 - INFO - ASR result: 我想吃鸡蛋炒番茄
+2025-06-16 00:10:46,535 - INFO - Commender result: {'text': '我想吃鸡蛋炒番茄', 'content': '鸡蛋炒番茄', 'parsed_content': '无法解析'}
+2025-06-16 00:10:46,535 - INFO - Output: 帮我点鸡蛋炒番茄
+2025-06-16 00:10:52,762 - INFO - audioURL: https://ele-tianchi-track1.oss-cn-hangzhou.aliyuncs.com/%E9%B8%A1%E8%9B%8B%E7%82%92%E7%95%AA%E8%8C%84.mp3
+2025-06-16 00:10:53,034 - INFO - ASR result: 我想吃鸡蛋炒番茄
+2025-06-16 00:10:53,092 - INFO - Commender result: {'text': '我想吃鸡蛋炒番茄', 'content': '鸡蛋炒番茄', 'parsed_content': '无法解析'}
+2025-06-16 00:10:53,092 - INFO - Output: 帮我点鸡蛋炒番茄
+2025-06-16 08:30:53,406 - INFO - audioURL: https://ele-tianchi-track1.oss-cn-hangzhou.aliyuncs.com/%E9%B8%A1%E8%9B%8B%E7%82%92%E7%95%AA%E8%8C%84.mp3
+2025-06-16 08:30:53,900 - INFO - ASR result: 我想吃鸡蛋炒番茄
+2025-06-16 08:30:53,963 - INFO - Commender result: {'text': '我想吃鸡蛋炒番茄', 'content': '鸡蛋炒番茄', 'parsed_content': '无法解析'}
+2025-06-16 08:30:53,963 - INFO - Output: 帮我点鸡蛋炒番茄
+2025-06-16 08:30:56,224 - INFO - audioURL: https://ele-tianchi-track1.oss-cn-hangzhou.aliyuncs.com/%E9%B8%A1%E8%9B%8B%E7%82%92%E7%95%AA%E8%8C%84.mp3
+2025-06-16 08:30:56,613 - INFO - ASR result: 我想吃鸡蛋炒番茄
+2025-06-16 08:30:56,671 - INFO - Commender result: {'text': '我想吃鸡蛋炒番茄', 'content': '鸡蛋炒番茄', 'parsed_content': '无法解析'}
+2025-06-16 08:30:56,671 - INFO - Output: 帮我点鸡蛋炒番茄
+2025-06-16 08:30:58,367 - INFO - audioURL: https://ele-tianchi-track1.oss-cn-hangzhou.aliyuncs.com/%E9%B8%A1%E8%9B%8B%E7%82%92%E7%95%AA%E8%8C%84.mp3
+2025-06-16 08:30:58,698 - INFO - ASR result: 我想吃鸡蛋炒番茄
+2025-06-16 08:30:58,758 - INFO - Commender result: {'text': '我想吃鸡蛋炒番茄', 'content': '鸡蛋炒番茄', 'parsed_content': '无法解析'}
+2025-06-16 08:30:58,758 - INFO - Output: 帮我点鸡蛋炒番茄
+2025-06-16 09:25:52,941 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500371490433796d13b6_1750037152568_42025cdd2ccd412184c37946c39f4b51.ogg?Expires=1750037752&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=ExF5LpE8gbpOWNR%2B6mbOwsVVhuY%3D
+2025-06-16 09:25:53,392 - INFO - ASR result: 天猫精灵我要点番茄炒蛋
+2025-06-16 09:25:53,454 - INFO - Commender result: {'text': '我要点番茄炒蛋', 'content': '番茄炒蛋', 'parsed_content': '无法解析'}
+2025-06-16 09:25:53,454 - INFO - Output: 帮我点番茄炒蛋
+2025-06-16 09:26:03,750 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500371594227553d13b6_1750037163482_0560c8125e71467f8a08da624466ae7a.ogg?Expires=1750037763&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=PyBmDwX%2FS%2Fr0l5ufV6OeOxLGZEo%3D
+2025-06-16 09:26:04,141 - INFO - ASR result: 天猫精灵我想吃番茄炒蛋
+2025-06-16 09:26:04,199 - INFO - Commender result: {'text': '我想吃番茄炒蛋', 'content': '番茄炒蛋', 'parsed_content': '无法解析'}
+2025-06-16 09:26:04,199 - INFO - Output: 帮我点番茄炒蛋
+2025-06-16 09:26:13,489 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500371680402415d13b6_1750037173245_ab9f412ae7ba4b1ab7bf8484ef2241fa.ogg?Expires=1750037773&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=mxxOgb8VSlIDLCgx8KfvByDRmao%3D
+2025-06-16 09:26:13,837 - INFO - ASR result: 申请个明天五分钟早上休息
+2025-06-16 09:26:13,975 - INFO - Commender result: {'text': '申请个明天五分钟早上休息', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 09:26:13,975 - INFO - Output: 申请个明天五分钟早上休息
+2025-06-16 09:26:27,194 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500371794636047d13b6_1750037186928_a4eb55a986bc4c46bf0bdfcfddd09058.ogg?Expires=1750037787&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=Gp1EfcKSb8c9mZeV%2Fm2FsGfaY1I%3D
+2025-06-16 09:26:27,520 - INFO - ASR result: 猫猫好像有题我不知道以我我的服务应该正常但不知道为什么
+2025-06-16 09:26:27,656 - INFO - Commender result: {'text': '猫猫好像有题我不知道以我我的服务应该正常但不知道为什么', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 09:26:27,656 - INFO - Output: 猫猫好像有题我不知道以我我的服务应该正常但不知道为什么
+2025-06-16 09:28:18,657 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500372954198646d13b6_1750037298457_f6ab6cd4644441d5b96e3a744ec56130.ogg?Expires=1750037898&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=HZk9tQCxX9QhM8MGMlvtov%2BkA8Q%3D
+2025-06-16 09:28:18,937 - INFO - ASR result: 天猫精灵我想吃番茄炒蛋
+2025-06-16 09:28:18,994 - INFO - Commender result: {'text': '我想吃番茄炒蛋', 'content': '番茄炒蛋', 'parsed_content': '无法解析'}
+2025-06-16 09:28:18,994 - INFO - Output: 帮我点番茄炒蛋
+2025-06-16 09:28:26,503 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500373028653195d13b6_1750037306356_5cc3e1d24225447bb52191826408db5f.ogg?Expires=1750037906&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=VK%2B93NeapyjQPxIQwzGfINcXFzg%3D
+2025-06-16 09:28:26,769 - INFO - ASR result: 他们问了么那个服务问题我问问
+2025-06-16 09:28:26,906 - INFO - Commender result: {'text': '他们问了么那个服务问题我问问', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 09:28:26,906 - INFO - Output: 他们问了么那个服务问题我问问
+2025-06-16 09:30:09,680 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500374063673732d13b6_1750037409383_6f0fe709d8124a28a7a66d5e87845f6c.ogg?Expires=1750038009&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=sVGoiPgWzPYD03boBEAF0B3yTmQ%3D
+2025-06-16 09:30:10,041 - INFO - ASR result: 天猫精灵我想吃番茄炒蛋
+2025-06-16 09:30:10,100 - INFO - Commender result: {'text': '我想吃番茄炒蛋', 'content': '番茄炒蛋', 'parsed_content': '无法解析'}
+2025-06-16 09:30:10,100 - INFO - Output: 帮我点番茄炒蛋
+2025-06-16 09:30:27,438 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500374203227939d13b6_1750037427301_5765a44f47504fb8b4aa049eca2db9f6.ogg?Expires=1750038027&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=n9E10Ex0hotd3aWM8WiYgz%2BA8OM%3D
+2025-06-16 09:30:27,752 - INFO - ASR result: 你你来说一随便说买我想吃辣叶炒肉
+2025-06-16 09:30:27,811 - INFO - Commender result: {'text': '你你来说一随便说买我想吃辣叶炒肉', 'content': '叶炒肉', 'parsed_content': '无法解析'}
+2025-06-16 09:30:27,811 - INFO - Output: 帮我点叶炒肉
+2025-06-16 09:30:40,654 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500374372074899d13b6_1750037440523_aa3c7dd7ac6d408d887a4b917765d9c5.ogg?Expires=1750038040&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=x0KPLTnlBTMzEbyABnjpFVOu4f4%3D
+2025-06-16 09:30:40,922 - INFO - ASR result: 辣叶炒肉就识别错辣椒炒
+2025-06-16 09:30:40,980 - INFO - Commender result: {'text': '辣叶炒肉就识别错辣椒炒', 'content': '辣椒炒肉', 'parsed_content': '无法解析'}
+2025-06-16 09:30:40,980 - INFO - Output: 帮我点辣椒炒肉
+2025-06-16 09:30:55,807 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500374505161142d13b6_1750037455676_d552b79ac8c349f9b46e0859ab9a7af7.ogg?Expires=1750038055&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=Nu0jFA7SO0HySITHAnIQn7Cxpuc%3D
+2025-06-16 09:30:56,104 - INFO - ASR result: 天猫精灵我要一叫的
+2025-06-16 09:30:56,175 - INFO - Commender result: {'text': '我要一叫的', 'content': '我要一叫的', 'parsed_content': '无法解析'}
+2025-06-16 09:30:56,175 - INFO - Output: 帮我点我要一叫的
+2025-06-16 09:31:06,521 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500374595434500d13b6_1750037466414_fcaabf67f4d44ebc9b9b2a583d0cf1df.ogg?Expires=1750038066&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=UCQRkd1rGJ41k2z007P6CUoh87M%3D
+2025-06-16 09:31:06,823 - INFO - ASR result: 你刚才打那个那个安全他没草没时间
+2025-06-16 09:31:06,960 - INFO - Commender result: {'text': '你刚才打那个那个安全他没草没时间', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 09:31:06,961 - INFO - Output: 你刚才打那个那个安全他没草没时间
+2025-06-16 09:34:32,755 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500376687144598d13b6_1750037672429_fd78c038c7be4b9f9e94d4b0fd306097.ogg?Expires=1750038272&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=b5JYOH4naZLTxVm6dW0DnJG3zBI%3D
+2025-06-16 09:34:33,136 - INFO - ASR result: 天猫精灵帮我点辣椒炒肉
+2025-06-16 09:34:33,194 - INFO - Commender result: {'text': '帮我点辣椒炒肉', 'content': '辣椒炒肉', 'parsed_content': '无法解析'}
+2025-06-16 09:34:33,194 - INFO - Output: 帮我点辣椒炒肉
+2025-06-16 09:37:47,176 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500378633006864d13b6_1750037866996_d3932949205a4b34a4e190997839b0af.ogg?Expires=1750038467&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=3d3vtr4mVeD%2FTSFQetibm6sBu6U%3D
+2025-06-16 09:37:47,636 - INFO - ASR result: 天猫精灵帮我点辣椒炒肉
+2025-06-16 09:37:47,693 - INFO - Commender result: {'text': '帮我点辣椒炒肉', 'content': '辣椒炒肉', 'parsed_content': '无法解析'}
+2025-06-16 09:37:47,693 - INFO - Output: 帮我点辣椒炒肉
+2025-06-16 09:37:58,068 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500378741561950d13b6_1750037877970_60b859ecb4b4459caaafa2bba2fcf21b.ogg?Expires=1750038478&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=gXI8nfSNhOQuQTpBO9Iaz43S1Cw%3D
+2025-06-16 09:37:58,374 - INFO - ASR result: 天猫精灵帮我点辣椒炒肉
+2025-06-16 09:37:58,430 - INFO - Commender result: {'text': '帮我点辣椒炒肉', 'content': '辣椒炒肉', 'parsed_content': '无法解析'}
+2025-06-16 09:37:58,431 - INFO - Output: 帮我点辣椒炒肉
+2025-06-16 09:38:12,301 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500378834934327d13b6_1750037892217_23c27ac14f034159b963434bfb673f02.ogg?Expires=1750038492&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=iwz88OhC03iY9Vqg8UFQhMr20ko%3D
+2025-06-16 09:38:12,605 - INFO - ASR result: 回事找不到他这个有点问题就是我一开始我那个刚才今天刚才一突然也是找不到
+2025-06-16 09:38:12,746 - INFO - Commender result: {'text': '回事找不到他这个有点问题就是我一开始我那个刚才今天刚才一突然也是找不到', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 09:38:12,746 - INFO - Output: 回事找不到他这个有点问题就是我一开始我那个刚才今天刚才一突然也是找不到
+2025-06-16 09:38:25,207 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500379008158996d13b6_1750037905117_99409fa7840a44c1bb7c4c911ffa28ed.ogg?Expires=1750038505&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=yY5zCv2nMnUVy46v18Zw5XrsLXs%3D
+2025-06-16 09:38:25,528 - INFO - ASR result: 天猫精灵帮我点辣椒炒肉
+2025-06-16 09:38:25,584 - INFO - Commender result: {'text': '帮我点辣椒炒肉', 'content': '辣椒炒肉', 'parsed_content': '无法解析'}
+2025-06-16 09:38:25,585 - INFO - Output: 帮我点辣椒炒肉
+2025-06-16 09:38:37,362 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500379106304424d13b6_1750037917273_93919c91eb3d4371a039b8079d51a5e3.ogg?Expires=1750038517&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=8AaZCi0kImHFw0YquMXJLSg7v%2BQ%3D
+2025-06-16 09:38:37,673 - INFO - ASR result: 是不看我服好我服应该是没啥问题
+2025-06-16 09:38:37,809 - INFO - Commender result: {'text': '是不看我服好我服应该是没啥问题', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 09:38:37,809 - INFO - Output: 是不看我服好我服应该是没啥问题
+2025-06-16 09:39:25,752 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500379620004373d13b6_1750037965532_ab9f86216237416d9b67811adcd164cf.ogg?Expires=1750038565&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=W9Tq3Yn444rE8rpB7c2NqbptxcI%3D
+2025-06-16 09:39:26,032 - INFO - ASR result: 天猫精灵帮我点辣椒炒肉
+2025-06-16 09:39:26,092 - INFO - Commender result: {'text': '帮我点辣椒炒肉', 'content': '辣椒炒肉', 'parsed_content': '无法解析'}
+2025-06-16 09:39:26,092 - INFO - Output: 帮我点辣椒炒肉
+2025-06-16 09:43:44,951 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500382209128710d13b6_1750038224702_1d1e1075b0fe44c89067d50c4a17482c.ogg?Expires=1750038824&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=k9SM2QSIvLVaSqli5O9gMzdog8A%3D
+2025-06-16 09:43:45,310 - INFO - ASR result: 天猫精灵帮我点辣椒炒肉吧
+2025-06-16 09:43:45,368 - INFO - Commender result: {'text': '帮我点辣椒炒肉吧', 'content': '辣椒炒肉', 'parsed_content': '无法解析'}
+2025-06-16 09:43:45,368 - INFO - Output: 帮我点辣椒炒肉
+2025-06-16 09:44:00,285 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500382348635025d13b6_1750038240158_e9df17fcab49422fb4d1647417e3ffd2.ogg?Expires=1750038840&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=1JbUsE7ARsZgrBs8VQG7gvlDnV4%3D
+2025-06-16 09:44:00,557 - INFO - ASR result: 下一故事嗯不好吧
+2025-06-16 09:44:00,692 - INFO - Commender result: {'text': '下一故事嗯不好吧', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 09:44:00,692 - INFO - Output: 下一故事嗯不好吧
+2025-06-16 09:44:21,269 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500382574504246d13b6_1750038261151_5304088f1c44492f923ce4c575ca670b.ogg?Expires=1750038861&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=Nh2c90exsPBZwCf%2BsLKIcMjzMB8%3D
+2025-06-16 09:44:21,567 - INFO - ASR result: 天猫精灵帮我点一份皮蛋瘦肉粥
+2025-06-16 09:44:21,652 - INFO - Commender result: {'text': '帮我点一份皮蛋瘦肉粥', 'content': '皮蛋瘦肉粥', 'parsed_content': '无法解析'}
+2025-06-16 09:44:21,652 - INFO - Output: 帮我点皮蛋瘦肉粥
+2025-06-16 09:44:43,873 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500382801012941d13b6_1750038283765_b3f1ad148990413bac04834fc29420e3.ogg?Expires=1750038883&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=YlIMqKd%2Bgc9cCmPW0Yjzwy9Iyxo%3D
+2025-06-16 09:44:44,171 - INFO - ASR result: 天猫精灵帮我点一份黄焖鸡
+2025-06-16 09:44:44,229 - INFO - Commender result: {'text': '帮我点一份黄焖鸡', 'content': '黄焖鸡', 'parsed_content': '无法解析'}
+2025-06-16 09:44:44,229 - INFO - Output: 帮我点黄焖鸡
+2025-06-16 09:44:57,128 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500382932246761d13b6_1750038296994_07cff3a4f18f4446ae11c248e543162b.ogg?Expires=1750038897&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=azDbPcrdQtwSBfSdhTDXwFknqJ0%3D
+2025-06-16 09:44:57,427 - INFO - ASR result: 再来一个随便再想一点
+2025-06-16 09:44:57,592 - INFO - Commender result: {'text': '再来一个随便再想一点', 'content': '香煎三文鱼配柠檬蒜香奶油酱', 'parsed_content': '无法解析'}
+2025-06-16 09:44:57,592 - INFO - Output: 帮我点香煎三文鱼配柠檬蒜香奶油酱
+2025-06-16 09:45:03,144 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500382988138347d13b6_1750038303028_857479d89cf2484d882803bf27a6a953.ogg?Expires=1750038903&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=1xGtHaPj3YHlJsTehR8bK4e%2FdWM%3D
+2025-06-16 09:45:03,449 - INFO - ASR result: 天猫精灵帮我点一份麦当劳靠
+2025-06-16 09:45:03,584 - INFO - Commender result: {'text': '帮我点一份麦当劳靠', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 09:45:03,584 - INFO - Output: 天猫精灵帮我点一份麦当劳靠
+2025-06-16 10:35:46,677 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500413428731361d13b6_1750041346487_20df5f07368c41c380a8428e98b3fb94.ogg?Expires=1750041946&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=pYdQ5%2BH11ji6qPL8ZY0FW6paotU%3D
+2025-06-16 10:35:47,257 - INFO - ASR result: 天猫精灵帮我点番茄炒蛋
+2025-06-16 10:35:47,316 - INFO - Commender result: {'text': '帮我点番茄炒蛋', 'content': '番茄炒蛋', 'parsed_content': '无法解析'}
+2025-06-16 10:35:47,316 - INFO - Output: 帮我点番茄炒蛋
+2025-06-16 10:40:13,146 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500416094903557d13b6_1750041612945_d486cb1dcb9046dbae5d43dc2b033fe9.ogg?Expires=1750042212&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=ycZ6Y2HNUeXAKANS2oz4Tc30%2FzM%3D
+2025-06-16 10:40:13,484 - INFO - ASR result: 天猫精灵帮我点一个鸡丝面
+2025-06-16 10:40:13,547 - INFO - Commender result: {'text': '帮我点一个鸡丝面', 'content': '鸡丝面', 'parsed_content': '无法解析'}
+2025-06-16 10:40:13,547 - INFO - Output: 帮我点鸡丝面
+2025-06-16 10:40:25,961 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500416239447611d13b6_1750041625863_9fc30265fb7043c190eb6daa6695800c.ogg?Expires=1750042225&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=H2ELIBbEDkRk5MY9KUCOaylWRd4%3D
+2025-06-16 10:40:26,225 - INFO - ASR result: 不买
+2025-06-16 10:40:26,367 - INFO - Commender result: {'text': '不买', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 10:40:26,367 - INFO - Output: 不买
+2025-06-16 10:40:42,555 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500416388323758d13b6_1750041642418_280772768b784dfb91f4c69871333ca9.ogg?Expires=1750042242&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=Zm4MITSzpGvEy%2F%2BBrgwTRzf8xbM%3D
+2025-06-16 10:40:42,856 - INFO - ASR result: 天猫精灵帮我点一份鸡丝面
+2025-06-16 10:40:42,914 - INFO - Commender result: {'text': '帮我点一份鸡丝面', 'content': '鸡丝面', 'parsed_content': '无法解析'}
+2025-06-16 10:40:42,914 - INFO - Output: 帮我点鸡丝面
+2025-06-16 10:40:55,661 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213f72ab17500416525408108d13b6_1750041655540_2541faa13321494fafbc4b565f90552d.ogg?Expires=1750042255&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=kHIAMAgQzpDKS3kl7OZPI5LtW9U%3D
+2025-06-16 10:40:55,904 - INFO - ASR result: 购买
+2025-06-16 10:40:56,041 - INFO - Commender result: {'text': '购买', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 10:40:56,041 - INFO - Output: 购买
+2025-06-16 11:18:17,517 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500438945571298d2006_1750043897210_3e42858c7c234e2e992b45e3edaac8e5.ogg?Expires=1750044497&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=IuAATevvcu1rCB9lVcrgdvliciw%3D
+2025-06-16 11:18:18,039 - INFO - ASR result: 天猫精灵没联网再连一下
+2025-06-16 11:18:18,180 - INFO - Commender result: {'text': '没联网再连一下', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 11:18:18,180 - INFO - Output: 天猫精灵没联网再连一下
+2025-06-16 11:18:28,827 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500439045203309d2006_1750043908693_06a68fa0ea9042f99b4933504c4e265c.ogg?Expires=1750044508&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=zJ7W6k3NFvNvvUJ8N9tghr%2Fti%2Bo%3D
+2025-06-16 11:18:29,110 - INFO - ASR result: 天猫精灵帮我点番茄炒蛋
+2025-06-16 11:18:29,168 - INFO - Commender result: {'text': '帮我点番茄炒蛋', 'content': '番茄炒蛋', 'parsed_content': '无法解析'}
+2025-06-16 11:18:29,169 - INFO - Output: 帮我点番茄炒蛋
+2025-06-16 11:40:13,878 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500452101295600d2006_1750045213602_f5eeb297aea94b879875372b15c65690.ogg?Expires=1750045813&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=LclUO%2BKb3U4o4nQseGcmZTp9C%2Fw%3D
+2025-06-16 11:40:14,491 - INFO - ASR result: 天猫精灵我想点一份小米粥
+2025-06-16 11:40:14,539 - INFO - Commender result: {'text': '我想点一份小米粥', 'content': '小米粥', 'parsed_content': '无法解析'}
+2025-06-16 11:40:14,539 - INFO - Output: 帮我点小米粥
+2025-06-16 11:40:55,820 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500452525076527d2006_1750045255716_3ed01f9ffb9d4bca89acbaff002ff012.ogg?Expires=1750045855&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=Zg5LBB%2BXDU6sPhA45rheDLpok3g%3D
+2025-06-16 11:40:56,114 - INFO - ASR result: 天猫精灵我想点小米粥
+2025-06-16 11:40:56,160 - INFO - Commender result: {'text': '我想点小米粥', 'content': '小米粥', 'parsed_content': '无法解析'}
+2025-06-16 11:40:56,160 - INFO - Output: 帮我点小米粥
+2025-06-16 11:41:06,594 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500452645781204d2006_1750045266466_9b898c9f7a8942528ba9bb420f72ec5f.ogg?Expires=1750045866&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=LZS0VGKE40otZkBk3q9Mu6RxTQk%3D
+2025-06-16 11:41:06,880 - INFO - ASR result: 购买
+2025-06-16 11:41:07,021 - INFO - Commender result: {'text': '购买', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 11:41:07,021 - INFO - Output: 购买
+2025-06-16 11:41:14,803 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500452716072674d2006_1750045274641_54a07b9282954718b011adf42b7248b8.ogg?Expires=1750045874&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=tm3BzhWi0OOBgL9VZpV6%2FPqHm60%3D
+2025-06-16 11:41:15,076 - INFO - ASR result: 对我我这边饿了么就会有
+2025-06-16 11:41:15,216 - INFO - Commender result: {'text': '对我我这边饿了么就会有', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 11:41:15,216 - INFO - Output: 对我我这边饿了么就会有
+2025-06-16 11:41:28,713 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500452857705992d2006_1750045288614_0491439111bb4364bc2e300c3ffd85bb.ogg?Expires=1750045888&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=e9tQgHjFejpXaJ7HPctwq6hFdCQ%3D
+2025-06-16 11:41:29,011 - INFO - ASR result: 没天猫精灵广豆的所有吧
+2025-06-16 11:41:29,097 - INFO - Commender result: {'text': '没广豆的所有吧', 'content': '没广豆的所有吧', 'parsed_content': '无法解析'}
+2025-06-16 11:41:29,097 - INFO - Output: 帮我点没广豆的所有吧
+2025-06-16 12:02:36,798 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500465532172350d2006_1750046556495_f9b06163e8f9495e85c343108def199c.ogg?Expires=1750047156&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=nUaPIp8Pu%2BSoqefMQsmxI57Idxk%3D
+2025-06-16 12:02:37,241 - INFO - ASR result: 天猫精灵帮我点一份小米粥
+2025-06-16 12:02:37,284 - INFO - Commender result: {'text': '帮我点一份小米粥', 'content': '小米粥', 'parsed_content': '无法解析'}
+2025-06-16 12:02:37,285 - INFO - Output: 帮我点小米粥
+2025-06-16 12:02:46,842 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500465655065216d2006_1750046566748_ac3d1b2c64654c82899b08618b103653.ogg?Expires=1750047166&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=w1Mz%2BuNWXkmhG5ug10X%2BUcATpy0%3D
+2025-06-16 12:02:47,086 - INFO - ASR result: 购买
+2025-06-16 12:02:47,222 - INFO - Commender result: {'text': '购买', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 12:02:47,222 - INFO - Output: 购买
+2025-06-16 12:02:56,591 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500465714416615d2006_1750046576480_3a00d5fb4ba343afaf59a8a9e2816e9f.ogg?Expires=1750047176&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=wtRzpROEX4SOTEHsS5tYzWA5D7g%3D
+2025-06-16 12:02:56,844 - INFO - ASR result: 好稍等一下我手机再来个客写
+2025-06-16 12:02:56,979 - INFO - Commender result: {'text': '好稍等一下我手机再来个客写', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 12:02:56,979 - INFO - Output: 好稍等一下我手机再来个客写
+2025-06-16 12:04:05,499 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500466424927349d2006_1750046645289_5a688748b14343d5a510906ceabfb75b.ogg?Expires=1750047245&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=3Q4ByeoCOCRawvNE%2Fdo9W8V2tp4%3D
+2025-06-16 12:04:05,770 - INFO - ASR result: 天猫精灵帮我点一份皮蛋
+2025-06-16 12:04:05,854 - INFO - Commender result: {'text': '帮我点一份皮蛋', 'content': '皮蛋瘦肉粥', 'parsed_content': '无法解析'}
+2025-06-16 12:04:05,854 - INFO - Output: 帮我点皮蛋瘦肉粥
+2025-06-16 12:04:16,233 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500466549332405d2006_1750046656139_b6a816d4712a4feda5ecbcca7275491b.ogg?Expires=1750047256&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=3tL9itqd2VOBP1ijPOuGE5CN7FY%3D
+2025-06-16 12:04:16,594 - INFO - ASR result: 购买
+2025-06-16 12:04:16,728 - INFO - Commender result: {'text': '购买', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 12:04:16,728 - INFO - Output: 购买
+2025-06-16 12:04:26,395 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500466610013915d2006_1750046666293_db2e2818115e4d89ada92052f91fd28c.ogg?Expires=1750047266&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=3VL%2B68X1VNhn%2Fg8NvW%2BATcG%2FURY%3D
+2025-06-16 12:04:26,656 - INFO - ASR result: 天猫精给后个
+2025-06-16 12:04:26,791 - INFO - Commender result: {'text': '天猫精给后个', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 12:04:26,791 - INFO - Output: 天猫精给后个
+2025-06-16 12:05:00,115 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500466958614494d2006_1750046699998_2d90d186c358428eaf236dc1965c678a.ogg?Expires=1750047300&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=eAQCTVtmhlS96Q08Ybf7XzpEl9o%3D
+2025-06-16 12:05:00,373 - INFO - ASR result: 天猫精灵帮我点一份辣椒炒肉
+2025-06-16 12:05:00,434 - INFO - Commender result: {'text': '帮我点一份辣椒炒肉', 'content': '辣椒炒肉', 'parsed_content': '无法解析'}
+2025-06-16 12:05:00,434 - INFO - Output: 帮我点辣椒炒肉
+2025-06-16 12:05:28,651 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500467251603413d2006_1750046728543_f1993709431b4438b40432af8950459a.ogg?Expires=1750047328&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=24OnWk%2FHkLvOgmQBXaQ%2FATmN8AU%3D
+2025-06-16 12:05:28,921 - INFO - ASR result: 天猫精灵帮我点一份黄焖鸡
+2025-06-16 12:05:28,986 - INFO - Commender result: {'text': '帮我点一份黄焖鸡', 'content': '黄焖鸡', 'parsed_content': '无法解析'}
+2025-06-16 12:05:28,986 - INFO - Output: 帮我点黄焖鸡
+2025-06-16 12:05:42,713 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500467371236539d2006_1750046742609_50501af8fa944d709a97d95b81287cd4.ogg?Expires=1750047342&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=P4LKEzlFf5GNRU0B2CD3Yg2FYJQ%3D
+2025-06-16 12:05:42,980 - INFO - ASR result: 换一个不是他是他是在刚刚那个店铺对我刚刚还在刚刚店铺没出来
+2025-06-16 12:05:43,116 - INFO - Commender result: {'text': '换一个不是他是他是在刚刚那个店铺对我刚刚还在刚刚店铺没出来', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 12:05:43,116 - INFO - Output: 换一个不是他是他是在刚刚那个店铺对我刚刚还在刚刚店铺没出来
+2025-06-16 12:05:56,120 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500467524132109d2006_1750046756029_08ffd1892f0149a4839104299cda3a5a.ogg?Expires=1750047356&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=ZBH7qdpUdUNtLH7d85pMpN%2B06VE%3D
+2025-06-16 12:05:56,699 - INFO - ASR result: 天猫精灵帮我点一个黄焖鸡
+2025-06-16 12:05:56,756 - INFO - Commender result: {'text': '帮我点一个黄焖鸡', 'content': '黄焖鸡', 'parsed_content': '无法解析'}
+2025-06-16 12:05:56,756 - INFO - Output: 帮我点黄焖鸡
+2025-06-16 12:06:22,505 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500467791228294d2006_1750046782401_3d0710eba9404584a53ff733b49fdb01.ogg?Expires=1750047382&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=4w2bP5ZKBmhrMidl0mS8WjGZAkA%3D
+2025-06-16 12:06:22,808 - INFO - ASR result: 天猫精灵帮我点一份黄焖鸡
+2025-06-16 12:06:22,869 - INFO - Commender result: {'text': '帮我点一份黄焖鸡', 'content': '黄焖鸡', 'parsed_content': '无法解析'}
+2025-06-16 12:06:22,869 - INFO - Output: 帮我点黄焖鸡
+2025-06-16 12:06:37,338 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500467942704342d2006_1750046797162_1aaafbaccd87445f931ad5e2b6a9ef09.ogg?Expires=1750047397&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=z%2BlRxCbv%2BqbQ9XiED5T7flmM6h4%3D
+2025-06-16 12:06:37,615 - INFO - ASR result: 购买
+2025-06-16 12:06:37,752 - INFO - Commender result: {'text': '购买', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 12:06:37,752 - INFO - Output: 购买
+2025-06-16 12:07:13,351 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500468295285246d2006_1750046833233_1fb97dddb9534a2ebeb9bea5ed6d28cb.ogg?Expires=1750047433&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=BQNfL9dC7L%2F616Ks3b7cBbNuC%2B4%3D
+2025-06-16 12:07:13,895 - INFO - ASR result: 天猫精灵帮我点一份皮蛋瘦肉粥
+2025-06-16 12:07:13,980 - INFO - Commender result: {'text': '帮我点一份皮蛋瘦肉粥', 'content': '皮蛋瘦肉粥', 'parsed_content': '无法解析'}
+2025-06-16 12:07:13,980 - INFO - Output: 帮我点皮蛋瘦肉粥
+2025-06-16 12:07:25,070 - INFO - audioURL: http://dabaiweng.oss-cn-zhangjiakou.aliyuncs.com/asr/2C8A17E2C766747F67AB01B873314721/213c96df17500468430288603d2006_1750046844992_8e2a27744b904a4aa3299201eee2958a.ogg?Expires=1750047445&OSSAccessKeyId=LTAI5tFdvQnWpLCfPstnRKBH&Signature=dzVlsqDsydoKMb4wU%2FywFlZLpl8%3D
+2025-06-16 12:07:25,326 - INFO - ASR result: 购买
+2025-06-16 12:07:25,461 - INFO - Commender result: {'text': '购买', 'content': '指令与菜品推荐无关，请重新输入指令', 'parsed_content': '无法解析'}
+2025-06-16 12:07:25,461 - INFO - Output: 购买
