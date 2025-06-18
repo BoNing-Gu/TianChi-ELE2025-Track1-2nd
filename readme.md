@@ -7,7 +7,7 @@ B榜排名: 2（得分为0.9647）
 
 # 最终方案
 语音转写部分，使用FunASR微调SenceVoice-small，通过五折交叉验证制作模型汤；意图识别部分，将音频处理成梅尔顿频谱，使用EfficientNet模型对频谱图进行分类；菜品推荐部分，设计四路召回，基于模型打标结果进行小模型的蒸馏。相较于Version1，更换了chooser（在流程图中表示为scorer）和gambler的提示词，模型任务分别被设置为对菜品池进行打分和对菜品池进行重排，对每一路的召回模型进行了多样化，最终的gambler使用Deepseek-r1。  
-| `solution presentation.pdf`为我们的答辩ppt，项目搭建较为仓促，有诸多不足有待完善，感谢批评指正。
+> `solution presentation.pdf`为我们的答辩ppt，项目搭建较为仓促，有诸多不足有待完善，感谢批评指正。
 
 # 整体思路
 ![流程图](src/ELE-Workflow-V2-api.png)  
